@@ -6,4 +6,4 @@ In this repository, I have uploaded sample Python projects I have worked on:
   - [Project URL](https://github.com/aprotsenko24/Python_Project/blob/main/artem_extra01.py)
 
 - **Sudoku Puzzle Solver**: A solver for Sudoku puzzles using **Constraint Satisfaction Problems (CSP)**, employing **binary constraints** and **arc consistency**.
-  - [Project URL](https://github.com/yourusername/yourrepository/sudoku-puzzle-solver](https://github.com/yourusername/yourrepository/sudoku-puzzle-solver)
+  - [Project URL](https://github.com/yourusername/yourrepository/sudoku-puzzle-solver)
